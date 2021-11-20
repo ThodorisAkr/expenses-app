@@ -1,7 +1,7 @@
 # expenses-app
 
-Following Udemy React course which is linked below, I made a simple expenses app which shows to the user
-expenses in a chart which be filtered by year, while also a new expense can be added. 
+Following Udemy React course made a simple expenses app which shows to the user
+expenses in a chart which is filtered by year, while also a new expense can be added. 
 This app utilizes the following React's basic concepts:
 
 - State and useState Hook
